@@ -13,7 +13,7 @@ using Nautilus.Assets.Gadgets;
 using UnityEngine;
 using Nautilus.Extensions;
 
-namespace HealthModuleMod.Equipment
+namespace HealthModuleMod.Equipment.knife
 {
     internal class VenomKnife : HeatBlade
        
