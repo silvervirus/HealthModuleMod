@@ -1,6 +1,6 @@
 ﻿using System;
 using HarmonyLib;
-using HealthModuleMod.Equipment;
+using HealthModuleMod.Equipment.chip;
 
 namespace HealthModuleMod
 {
